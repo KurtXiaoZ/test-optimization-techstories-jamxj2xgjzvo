@@ -4,7 +4,7 @@ This application is used to demonstrate and teach [Datadog](https://www.datadogh
 
 ## What is TechStories?
 
-TechStories is a simple web application that allows users to post stories about technology. Users can also comment on stories and upvote stories and comments. The application is written using Next.js and uses a PostgreSQL database to store data. It also uses a Node.js microservice to serve inspirational quotes.
+TechStories is a simple web application that allows users to post stories about technology. Users can also comment on stories and upvote stories and comments. The application is written using Next.js and uses a PostgreSQL database to store data. It also uses a Node.js microservice to serve inspirational quotes.jiji
 
 ### Technology used
 
